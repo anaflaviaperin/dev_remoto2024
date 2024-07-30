@@ -1,1 +1,11 @@
 Teste do git remote
+total 36
+drwxr-xr-x  3 root root 4096 jul 30 20:11 .
+drwxr-xr-x 17 root root 4096 jul 30 19:10 ..
+drwxr-xr-x  8 root root 4096 jul 30 20:12 .git
+-rw-r--r--  1 root root   27 jul 30 19:24 .gitignore
+-rw-r--r--  1 root root   20 jul 30 19:52 gitremote
+-rw-r--r--  1 root root  185 jul 30 19:24 hosts
+-rw-r--r--  1 root root 2099 jul 30 19:24 senhas.txt
+-rw-r--r--  1 root root 1094 jul 30 19:24 shadow
+-rw-r--r--  1 root root  448 jul 30 20:11 teste
